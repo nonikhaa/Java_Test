@@ -1,7 +1,3 @@
-import java.lang.*;
-import java.lang.Integer;
-
-
 public class Exercise_11_d{
 
     public static void main(String[] args){

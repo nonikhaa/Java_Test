@@ -1,6 +1,4 @@
-import java.lang.*;
 import java.lang.Integer;
-
 
 public class Exercise_11_c{
 

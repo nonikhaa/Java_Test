@@ -1,4 +1,3 @@
-import java.lang.*;
 
 public class Exercise_11_b{
     public static void main(String[] args){
